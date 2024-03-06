@@ -2,16 +2,20 @@
 
 <p><h4>Since I was 15 years old, I have been studying programming and working to improve myself. My skills include Python and Front-End development (HTML, CSS, JavaScript).</h4></p>
 
-
+<h3>My Skills</h3>
 
 <ul>
 <li><h5>Front-End Developer by SENAI/Brazil🤖</h5></li>
 
-<li><h5>Abilities in Python language with a certification by UDEMY💻</h5></li>
+<li><h5>Skills in Python language💻</h5></li>
+
+<li><h5>Skills in Illustrator and Photoshop🎨</h5></li>
  
 </ul>
 
-![hqdefault](https://github.com/LykinB1/LykinB1/assets/155120749/78f9dd2d-6d7c-4d46-89f6-7c57bb1a47fb)
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <p align="left">
+
+
 
 <h3>My Projects</h3>
 <ul>
