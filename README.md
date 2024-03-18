@@ -20,7 +20,7 @@
 <h3>My Projects</h3>
 <ul>
 
- <li><a href="https://github.com/LykinB1/Confectionery-Real-Madruga" alt:"Confectionery Real Madruga" target:"blank"></a></li>
+ <li><a href="https://github.com/LykinB1/Confectionery-Real-Madruga" alt="Confectionery Real Madruga" target="blank"></a></li>
  
  <li><a href="url"></a></li>
  
