@@ -20,9 +20,9 @@
 <h3>My Projects</h3>
 <ul>
 
- <li><a href="https://github.com/LykinB1/Confectionery-Real-Madruga">Confectionery Real Madruga (Simple Project)</a></li>
+ <li><a href="url"></a></li>
  
- <li><a href="https://github.com/LykinB1/Peixe-Grande">Peixe Grande (Simple Project)</a></li>
+ <li><a href="url"></a></li>
  
  <li><a href="url"></a></li>
  
