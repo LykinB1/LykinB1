@@ -1,4 +1,4 @@
-<h1> Hello! I'm Arthur. I am a student and a Front-End developer </h1>
+<h1> Hello! I'm Arthur. I am a Front-End developer </h1>
 
 <p><h4>Since I was 15 years old, I have been studying programming and working to improve myself. My skills include Python and Front-End development (HTML, CSS, JavaScript).</h4></p>
 
