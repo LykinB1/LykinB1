@@ -22,7 +22,7 @@
 
  <li><a href="https://github.com/stars/LykinB1/lists/training-projects">Training Projects 🤖</a></li>
  
- <li><a href="[https://github.com/LykinB1/Project-Owl-Shop](https://github.com/stars/LykinB1/lists/best-projects)">Best Projects ✨</a></li>
+ <li><a href="https://github.com/stars/LykinB1/lists/best-projects">Best Projects ✨</a></li>
  
 </ul>
 
