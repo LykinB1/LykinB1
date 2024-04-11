@@ -26,6 +26,8 @@
  
  <li><a href="https://github.com/LykinB1/Japan-Website">Japan Website</a></li>
  
+ <li><a href="https://github.com/LykinB1/Japan-Website](https://github.com/LykinB1/PawShop-2.0">PawShop 2.0</a></li>
+ 
 </ul>
 
 <h3>My statistics📊</h3>
