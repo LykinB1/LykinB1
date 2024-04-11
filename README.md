@@ -20,13 +20,9 @@
 <h3>My Projects</h3>
 <ul>
 
- <li><a href="https://github.com/LykinB1/Project-Banco-90">Banco 90</a></li>
+ <li><a href="https://github.com/stars/LykinB1/lists/training-projects">Training Projects 🤖</a></li>
  
- <li><a href="https://github.com/LykinB1/Project-Owl-Shop">Owl Shop</a></li>
- 
- <li><a href="https://github.com/LykinB1/Japan-Website">Japan Website</a></li>
- 
- <li><a href="https://github.com/LykinB1/Japan-Website](https://github.com/LykinB1/PawShop-2.0">PawShop 2.0</a></li>
+ <li><a href="[https://github.com/LykinB1/Project-Owl-Shop](https://github.com/stars/LykinB1/lists/best-projects)">Best Projects ✨</a></li>
  
 </ul>
 
