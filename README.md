@@ -20,9 +20,9 @@
 <h3>My Projects</h3>
 <ul>
 
- <li><a href="https://github.com/stars/LykinB1/lists/training-projects">Training Projects 🤖</a></li>
- 
  <li><a href="https://github.com/stars/LykinB1/lists/best-projects">Best Projects ✨</a></li>
+ 
+ <li><a href="https://github.com/stars/LykinB1/lists/training-projects">Training Projects 🤖</a></li>
  
 </ul>
 
